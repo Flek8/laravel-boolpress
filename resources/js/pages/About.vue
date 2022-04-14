@@ -1,12 +1,12 @@
 <template>
-    <main>
-        <router-view></router-view>
-    </main>
+    <div>
+        <h1>Chi Siamo</h1>
+    </div>
 </template>
 
 <script>
 export default {
-    name: 'Main'
+    name: 'About'
 }
 </script>
 
